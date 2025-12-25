@@ -1,0 +1,16 @@
+{
+  "name": "DigiGreenTech",
+  "short_name": "DigiGreenTech",
+  "description": "Инновационные EdTech решения для устойчивого будущего",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#2563EB",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}
+

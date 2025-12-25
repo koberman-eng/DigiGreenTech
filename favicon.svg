@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="url(#bgGradient)"/>
+  
+  <!-- Book icon (Education) -->
+  <path d="M20 24L32 18L44 24V36C44 38 42 39 32 42C22 39 20 38 20 36V24Z" fill="white" opacity="0.95"/>
+  <path d="M32 18V42" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Leaf icon (Green/Ecology) -->
+  <path d="M38 20C38 20 42 18 44 22C46 26 44 30 40 30C36 30 34 26 36 22C38 18 38 20 38 20Z" fill="#10B981" opacity="0.9"/>
+  
+  <!-- Tech circuit element -->
+  <rect x="26" y="26" width="12" height="12" rx="2" stroke="white" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <circle cx="29" cy="29" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="35" cy="29" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="29" cy="35" r="1.5" fill="white" opacity="0.9"/>
+  <circle cx="35" cy="35" r="1.5" fill="white" opacity="0.9"/>
+  
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#10B981"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+</svg>
+
